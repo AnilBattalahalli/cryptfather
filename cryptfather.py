@@ -81,7 +81,7 @@ def xor_str(a, b):
 
 def main():
     # Create the EventHandler and pass it your bot's token.
-    updater = Updater("205606239:AAFxxEbu5diVOTzhirS36W01UMJwWL0Wk7M")
+    updater = Updater("TOKEN")
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
